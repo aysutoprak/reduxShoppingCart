@@ -5,7 +5,7 @@ export interface CartState {
 }
 
 const initialState : CartState = {
-  items:  {}
+  items: {}
 }
 
 const cartSlice = createSlice({
